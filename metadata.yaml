@@ -1,0 +1,36 @@
+_repo: Beware-the-Star-Gods_66314
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Byrne, S. J. (Stuart James)
+    aliases:
+    - Dare, Howard
+    - Amare, Rothayne
+    - Byrne, Stuart J.
+    - Byrne, Stuart James
+    - Kaye, Marx
+    - Byrne, S.J.
+    - Bloodstone, John
+    birthdate: 1913
+    deathdate: 2011
+    gutenberg_agent_id: '53589'
+    url: http://www.gutenberg.org/2009/agents/53589
+    wikipedia: https://en.wikipedia.org/wiki/Stuart_J._Byrne
+description: ''
+gutenberg_issued: '2021-09-15'
+identifiers:
+  gutenberg: '66314'
+language: en
+pgterms:marc905: 20210306112508byrne
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Greenleaf Publishing Company,1954.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Beware the Star Gods
+url: http://www.gutenberg.org/ebooks/66314
