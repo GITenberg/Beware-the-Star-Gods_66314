@@ -1,5 +1,8 @@
 _repo: Beware-the-Star-Gods_66314
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66314-h/images/cover.jpg
 creator:
   author:
     agent_name: Byrne, S. J. (Stuart James)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53589
     wikipedia: https://en.wikipedia.org/wiki/Stuart_J._Byrne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66314#Beware-the-Star-Gods
 gutenberg_issued: '2021-09-15'
 identifiers:
   gutenberg: '66314'
